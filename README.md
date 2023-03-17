@@ -1,2 +1,2 @@
 # security-py
-Learning Python for Cyber Security 
+Learning advanture of Python for Cyber Security.
