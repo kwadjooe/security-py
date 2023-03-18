@@ -32,6 +32,5 @@
     db_nmap -Pn -p445 --script smb-os-discovery 10.X.X.X  
     db_nmap -Pn -p445 --script smb-vuln-ms17-010 10.X.X.X  
 
-- Searching for CVE
+- Searching for CVE  
  search cve:2021 type:exploit  
- 
