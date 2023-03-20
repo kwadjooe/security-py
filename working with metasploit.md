@@ -35,5 +35,5 @@
 - Searching for CVE  
  search cve:2021 type:exploit  
 
-### Disable windows firewall with command prompt
-netsh advfirewall set allprofiles state off
+### Disable windows firewall with command prompt  
+netsh advfirewall set allprofiles state off  
